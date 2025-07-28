@@ -6,6 +6,7 @@ fun main() {
         "Hola que tal Mandriles?",
         "hola a todos Mandriles",
         "mandriles mandriles mandriles"
+        "mandriles hello"
     )
 
     val contadorPalabras = mutableMapOf<String, Int>()
